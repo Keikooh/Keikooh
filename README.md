@@ -10,4 +10,4 @@
    howToReachMe: 'fergzm05@gmail.com 📧'
  }
 ```
-[discord] 𝙧𝙤𝙨𝙡𝙮𝙣#8419
+
