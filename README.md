@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-###### My name is ***Fer*** but you can call me ***Keikooh*** 👩🏻‍💻🧇
-
 ``` js
  const Fer = {
    age: '20',
