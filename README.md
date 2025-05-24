@@ -2,7 +2,7 @@
 
 ``` js
  const Fer = {
-   age: '21',
+   age: '22',
    favoriteDessert: 'Lemon pie 🍰',
    askMeAbout: 'Videogames 👾',
    howToReachMe: 'fergzm05@gmail.com 📧'
