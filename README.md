@@ -5,6 +5,9 @@
 <br>
 <br>
 
+- Currently, I'm developing an **MVP for my personal project "Torque Plus"** 🎯
+- Junior Fullstack Developer 👩‍💻
+- 
 
 
 ## Tech stack 💻
