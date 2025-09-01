@@ -7,8 +7,8 @@
 
 - Currently, I'm developing an **MVP for my personal project "Torque Plus"** 🎯
 - Junior Fullstack Developer 👩‍💻
+- I have a degree in **Computer Systems Engineering** 🎓
 - 
-
 
 ## Tech stack 💻
 <br>
