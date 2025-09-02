@@ -1,7 +1,8 @@
 <h1 align="center"><b>Hi , I'm Fer Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <span align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-gonzalez-muñoz-37084b199) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-gonzalez-muñoz-37084b199) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 </span>
 
 ## About me 💫
@@ -34,7 +35,9 @@
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## My Github Stats 📊
+<br>
+<br>
 
-<strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keikooh&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Keikooh&theme=gruvbox&hide_border=true"/><br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keikooh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Keikooh&theme=tokyonight&hide_border=true"/><br><br>
