@@ -2,7 +2,7 @@
 <br>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=651FFF&size=25&lines=Junior+Fullstack+Developer;Computer+Systems+Engineer;)](https://git.io/typing-svg" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=651FFF&size=25&lines=Junior+Fullstack+Developer;Computer+Systems+Engineer;" alt="Headline" />
 </div>
 
 ## About me 💫
