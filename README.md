@@ -39,8 +39,6 @@
   <h3 align="center">Stats:</h3>
 <p>
     <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=keikooh&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="keikooh" /></p></a>
     <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=keikooh&show_icons=true&theme=dark&locale=en" alt="keikooh" /></p></a>  
   </p>
 </p>
