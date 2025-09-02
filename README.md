@@ -3,14 +3,14 @@
 
 ## About me 💫
 <br>
-<br>
+
 - Currently, I'm developing an **MVP for my personal project "Torque Plus"** 🎯
 - Junior Fullstack Developer 👩‍💻
 - I have a degree in **Computer Systems Engineering** 🎓
 
 ## Tech stack 💻
 <br>
-<br>
+
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -32,6 +32,6 @@
 
 ## My Github Stats 📊
 <br>
-<br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keikooh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Keikooh&theme=tokyonight&hide_border=true"/><br><br>
