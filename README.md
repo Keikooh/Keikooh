@@ -35,11 +35,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<p>
-  <h3 align="center">Stats:</h3>
-<p>
-    <a align="left">
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=keikooh&show_icons=true&theme=dark&locale=en" alt="keikooh" /></p></a>  
-  </p>
-</p>
-
+<strong>📊 My Github Stats :</strong><br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keikooh&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox)<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Keikooh&theme=gruvbox&hide_border=true"/><br><br>
