@@ -42,3 +42,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keikooh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Keikooh&theme=tokyonight&hide_border=true"/><br>
 
+## Credits 🤝
+
+Logo and branding design by [Jp Graphc](https://www.behance.net/gallery/221537337/PORTAFOLIO-2025-Graphic-Design?fbclid=PAZXh0bgNhZW0CMTEAAadSLV9I2O-CS0O5u-d3pPPXS_-I_Ea3sddw1J1N_SZwInkjU7spGwB4as8YRw_aem_zX6DAN5Lk8ZHS2_qUXwJjA).
