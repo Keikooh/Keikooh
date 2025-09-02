@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=651FFF&size=25&lines=Junior+Fullstack+Developer;Computer+Systems+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=651FFF&size=25&lines=Junior+Fullstack+Developer;Computer+Systems+Engineer;)](https://git.io/typing-svg)
 </p>
 
 
