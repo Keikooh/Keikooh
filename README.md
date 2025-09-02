@@ -10,6 +10,11 @@
 - Junior Fullstack Developer 👩‍💻
 - I have a degree in **Computer Systems Engineering** 🎓
 
+## Contact me 📞
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-gonzalez-muñoz-37084b199/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fergzm05@gmail.com)
+
 ## Tech stack 💻
 <br>
 
@@ -36,9 +41,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keikooh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Keikooh&theme=tokyonight&hide_border=true"/><br>
-
-## Contact me 📞
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-gonzalez-muñoz-37084b199/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fergzm05@gmail.com)
 
