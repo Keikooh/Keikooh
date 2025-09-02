@@ -28,7 +28,6 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -36,4 +35,10 @@
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keikooh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Keikooh&theme=tokyonight&hide_border=true"/><br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Keikooh&theme=tokyonight&hide_border=true"/><br>
+
+## Contact me 📞
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-gonzalez-muñoz-37084b199/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fergzm05@gmail.com)
+
