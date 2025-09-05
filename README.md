@@ -1,13 +1,13 @@
 <h1 align="center"><b>Hi , I'm Fer Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
-<div align=center><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=9d6bf0&size=25&lines=Junior+Fullstack+Developer;Computer+Systems+Engineer;" alt="Headline"/></div>
+<div align=center><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=9d6bf0&size=25&lines=Fullstack+Developer;Computer+Systems+Engineer;" alt="Headline"/></div>
 
 ## About me 💫
 <br>
 
 - Currently, I'm developing an **MVP for my personal project "Torque Plus"** 🎯
-- Junior Fullstack Developer 👩‍💻
+- Fullstack Developer 👩‍💻
 - I have a degree in **Computer Systems Engineering** 🎓
 - Learning about Kubernetes 🐋
 
